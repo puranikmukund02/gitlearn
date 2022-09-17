@@ -1,3 +1,7 @@
 body{
-    background: rgb(165, 133, 133);
+    background: cyan;
+}
+h1,h2{
+    color:rebeccapurple;
+    font-weight: 800;
 }
